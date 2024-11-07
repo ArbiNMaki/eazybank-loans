@@ -16,7 +16,7 @@ public class Loans {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Long loadId;
+    private Long loanId;
 
     private String mobileNumber;
 
