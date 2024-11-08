@@ -10,7 +10,6 @@ import com.arbi.loans.mapper.LoansMapper;
 import com.arbi.loans.repository.LoansRepository;
 
 import lombok.AllArgsConstructor;
-import lombok.AllArgsConstructor;
 
 import org.springframework.stereotype.Service;
 
